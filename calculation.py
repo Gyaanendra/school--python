@@ -1,4 +1,4 @@
-# programe too perfrom basic calculation
+# programe to perfrom basic calculation
 a = int(input("Enter num1:"))
 b = int(input("Enter num2:"))
 # calculation
