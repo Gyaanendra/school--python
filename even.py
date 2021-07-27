@@ -1,4 +1,4 @@
-# to print odd number
+# to print even number
 N= int(input(" Please Enter any Maximum Value : "))
 
 for n in range(N):
