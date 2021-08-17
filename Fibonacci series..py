@@ -7,5 +7,5 @@ for c in range(k):
     c = b+a
     a=b
     b=c
-    print(a)    
+    print(c)    
 
