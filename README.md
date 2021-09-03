@@ -1,8 +1,7 @@
 #  **school--python**
-   this Github repository containes Codes **Enter**
-   sadsad
-   
-
+```
+  Hello!  This Github repository containes Codes for the python questions 
+```
 # **ch12ans folder** 
 * Q5148.py:-
 * q1.py:-
