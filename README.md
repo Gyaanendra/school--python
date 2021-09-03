@@ -1,6 +1,5 @@
 # school--python
 **ch12ans folder** 
-
 * Q5148.py:-
   
 ---
