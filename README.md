@@ -8,8 +8,10 @@
 * qfpart2.py:-
 
 # **ch13ans folder** 
-* palindrome.py
+* palindrome.py:-
+* qfpart2(minimum & maximum).py:-
 
+# **Others** 
 Fibonacci series. 12-8-2021
 
 palindrome q given on 17 - 8-2021
