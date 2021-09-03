@@ -10,8 +10,8 @@
 * qfpart2.py:-   <br/>   qf part 2 pg 148  
 
 # **ch13ans folder** 
-* palindrome.py:-
-* qfpart2(minimum & maximum).py:-
+* [palindrome.py:-](https://github.com/Gyaanendra/school--python/blob/main/ch13ans/palindrome.py) 
+* [fpart2(minimum & maximum).py:-](https://github.com/Gyaanendra/school--python/blob/main/ch13ans/qfpart2(minimum%20%26%20maximum).py)
 
 # **Others** 
 Fibonacci series. 12-8-2021
